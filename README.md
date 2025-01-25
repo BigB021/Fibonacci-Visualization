@@ -2,7 +2,7 @@
 
 Animated visualization for the famous Fibonacci sequence using the manim library.
 
-![](https://github.com/user-attachments/assets/1244a66a-7b26-4e15-b4f3-dfe1184bf1b0)
+https://github.com/user-attachments/assets/1244a66a-7b26-4e15-b4f3-dfe1184bf1b0
 
 ## Author
 Youssef Aitbouddroub
