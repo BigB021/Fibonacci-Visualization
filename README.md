@@ -2,6 +2,8 @@
 
 Animated visualization for the famous Fibonacci sequence using the manim library.
 
+[](https://github.com/BigB021/Fibonacci-Visualization/blob/main/media/videos/Fibonacci/1080p60/FibonacciSpiral.mp4)
+
 ## Author
 Youssef Aitbouddroub
 
